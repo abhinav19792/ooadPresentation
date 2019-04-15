@@ -20,5 +20,5 @@ Repository has code to demostrate the working of Dependency Injection and Aspect
   
 ## Aspect Oriented Programming(AOP)
   Helper class acts as the the Aspect class
-  Methods "startLog()", "endLog()", "indicatorOn()". "indicatorOff()" acts as the Advices in the AOP.
+  Methods "startLog()", "endLog()", "indicatorOn()". "indicatorOff()" acts as the Advices in the AOP. We have broken down the program into   different aspents. These aspects are the functionalities that span multiple points in an application “cross-cutting concerns” . With AOP   we separate these aspects from the application's business logic. 
   
