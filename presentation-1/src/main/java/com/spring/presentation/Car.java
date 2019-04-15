@@ -9,6 +9,7 @@ public class Car {
 	int id;
 	String name;
 	
+	// Dependency Injection
 	@Autowired
 	Engine eng;
 	
